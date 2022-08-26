@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Lucio Sianca <p>A passionate developer from Argentina</p>
 
 
-<h1 align="center">IQ TEST</h1>
+<h1 align="center">Password Generator</h1>
 
 I did it with basic concepts Python.
 
